@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gutierrez_Roberto_CE08</string>
+    <string name="minute_s">Minute(s)</string>
+    <string name="second_s">Second(s)</string>
+    <string name="colon">:</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="invalidToastText">Not a Valid Entry...</string>
+    <string name="alertButtonText">OK</string>
+    <string name="alertTitleText">Timer Finished</string>
+    <string name="timerstartingToastText">Timer Started</string>
+    <string name="zeroString">00</string>
+    <string name="myTag">TAG</string>
+    <string name="maxMinutesString">You\'ve reached max Minutes</string>
+    <string name="finishedCounting">Done counting...</string>
+    <string name="noCountingDone">Something didn\'t count right.</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GutierrezRoberto_CE01</string>
+    <string name="title0">0</string>
+    <string name="titleEquals">=</string>
+    <string name="divide">/</string>
+    <string name="title7">7</string>
+    <string name="title8">8</string>
+    <string name="title9">9</string>
+    <string name="times">*</string>
+    <string name="title4">4</string>
+    <string name="title5">5</string>
+    <string name="title6">6</string>
+    <string name="minus">-</string>
+    <string name="title1">1</string>
+    <string name="title2">2</string>
+    <string name="title3">3</string>
+    <string name="titlePlus">+</string>
+    <string name="clear">c</string>
+    <string name="inputHint">0000</string>
+    <string name="ADDITION_MODE">ADDITION</string>
+    <string name="SUBTRACTION_MODE">SUBTRACTION</string>
+    <string name="MULTIPLICATION_MODE">MULTIPLICATION</string>
+    <string name="DIVISION_MODE">DIVISION</string>
+    <string name="divide_multiplyBy0">NaN</string>
+</resources>

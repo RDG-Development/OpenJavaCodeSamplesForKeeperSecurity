@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GutierrezRoberto_CE02</string>
+    <string name="numerC1">0</string>
+    <string name="numberC2">0</string>
+    <string name="numberC3">0</string>
+    <string name="numberC4">0</string>
+    <string name="buttonTitle">Submit Guess</string>
+    <string name="emptyFieldToast">Error: One or more inputs are empty</string>
+    <string name="triesLeft">Tries Left:</string>
+    <string name="LostAlert">You ran out of tries. Try Again?</string>
+    <string name="playAgain">Play Again?</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="youWon">You Won!</string>
+</resources>
