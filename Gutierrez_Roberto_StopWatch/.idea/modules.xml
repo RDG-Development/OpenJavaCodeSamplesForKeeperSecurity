@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Gutierrez_Roberto_CE08StopWatch.iml" filepath="$PROJECT_DIR$/Gutierrez_Roberto_CE08StopWatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gutierrez_Roberto_StopWatch.iml" filepath="$PROJECT_DIR$/Gutierrez_Roberto_StopWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
